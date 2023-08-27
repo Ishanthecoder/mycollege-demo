@@ -1,2 +1,2 @@
 # mycollege-demo
-This is my first Git Repositor y.
+This is my first Git Repository.
